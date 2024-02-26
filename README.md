@@ -2,6 +2,9 @@
 
 ¡Bienvenido/a a ApuestasEnFutbol! Este proyecto utiliza tecnologías de bases de datos para la creación y carga de modelos de datos, con el objetivo de utilizar lenguaje SQL para investigación, desarrollo y presentación de resultados sobre preguntas de negocio para apoyo de toma de decisiones.
 
+## Repositorio
+Link: https://github.com/G2309/Proyecto-1.git
+
 ## 📋 Descripción del Proyecto
 
 El conjunto de datos a utilizar son archivos en formato CSV. Estos archivos contienen información detallada sobre todos los juegos de fútbol de las cinco principales ligas europeas entre las temporadas de 2014 a 2020 (7 años), así como información de los jugadores y sus características.
